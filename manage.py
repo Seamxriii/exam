@@ -12,3 +12,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# uv sync
+# cp .env.example .env
+# uv run python manage.py migrate
+# uv run python manage.py createsuperuser
+# uv run python manage.py runserver
