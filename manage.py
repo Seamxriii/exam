@@ -18,3 +18,4 @@ if __name__ == "__main__":
 # uv run python manage.py migrate
 # uv run python manage.py createsuperuser
 # uv run python manage.py runserver
+# git clone https://github.com/Seamxriii/exam.git
